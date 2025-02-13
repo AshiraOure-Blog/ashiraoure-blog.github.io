@@ -3,7 +3,8 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ashira Oure Blog
+name: Ashira Oure's Corner
+title: Ashira Oure's Corner
 
 # Short bio or description (displayed in the header)
 description: Boxing Club, Youth Academy, Training & Lifestyle
@@ -22,7 +23,7 @@ footer-links:
   facebook:
   flickr:
   github:
-  instagram:
+  instagram: https://www.instagram.com/ashira_oure_bxg_club/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -69,10 +70,10 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
