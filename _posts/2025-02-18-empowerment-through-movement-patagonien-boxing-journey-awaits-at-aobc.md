@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Empowerment Through Movement Patagonien Boxing Journey Awaits at AOBC"
+title: "Empowerment Through Movement Patagonien Boxing Journey Awaits at AOBC"
 date: 2025-02-18 12:04:46 +0100
 permalink: /empowerment-through-movement-patagonien-boxing-journey-awaits-at-aobc/
 ---
