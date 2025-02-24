@@ -6,8 +6,6 @@ permalink: /ramadan-2025-transformation-at-ashira-oure-boxing-club-copenhagen/
 ---
 
 
-### Discover Your Potential at Ashira Oure Boxing Club
-
 As the world gears up for Ramadan 2025, a time renowned for reflection and renewal, there's no better moment to embark on a journey of personal transformation. At the heart of Copenhagen, Ashira Oure Boxing Club (AOBC) stands as a beacon of empowerment and wellness. Led by former world champion Evans Ashira, AOBC is not just a boxing gym; it's a community dedicated to fostering discipline, strength, and camaraderie. Whether you're a beginner or a seasoned fighter, AOBC welcomes you with open arms, offering a range of programs tailored to your needs.
 
 ### A Place for Everyone
