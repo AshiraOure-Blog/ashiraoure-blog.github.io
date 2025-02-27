@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Empower Your Spirit with the Art of Boxing at Ashira Oure Boxing Club"
+title: "Empower Your Spirit with the Art of Boxing at Ashira Oure Boxing Club"
 date: 2025-02-25 12:05:15 +0100
 permalink: /empower-your-spirit-with-the-art-of-boxing-at-ashira-oure-boxing-club/
 ---
