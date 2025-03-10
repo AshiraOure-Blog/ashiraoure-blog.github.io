@@ -6,8 +6,6 @@ permalink: /grn-koncert-2025-boxing-fitness-revolution-at-ashira-oure-boxing-clu
 ---
 
 
-### Discover Your Strength: Train with Ashira Oure Boxing Club
-
 In the heart of Copenhagen, where vibrant culture meets a thriving fitness community, lies a hidden gem that’s transforming the health and wellness landscape—Ashira Oure Boxing Club (AOBC). This premier boxing gym, led by former world champion Evans Ashira, is not just a place where you learn to throw a punch; it's a community where you discover your strength, discipline, and resilience.
 
 ### A Boxing Gym for Everyone
