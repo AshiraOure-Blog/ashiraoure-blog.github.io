@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Empower Your Strength at Ashira Oure Boxing Club on International Women's Day"
+title: "Empower Your Strength at Ashira Oure Boxing Club on International Women's Day"
 date: 2025-03-08 12:04:47 +0100
 permalink: /empower-your-strength-at-ashira-oure-boxing-club-on-international-womens-day/
 ---
