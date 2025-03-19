@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Boxing Your Way to a Healthier Lifestyle with Ashira Oure Boxing Club"
+title: "Boxing Your Way to a Healthier Lifestyle with Ashira Oure Boxing Club"
 date: 2025-03-15 12:04:35 +0100
 permalink: /boxing-your-way-to-a-healthier-lifestyle-with-ashira-oure-boxing-club/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Boxing Through Tough Times: Why Ashira Oure Boxing Club is Your Recession-Proof Path to Wellness"
+title: "Boxing Through Tough Times: Why Ashira Oure Boxing Club is Your Recession-Proof Path to Wellness"
 date: 2025-03-11 12:04:59 +0100
 permalink: /boxing-through-tough-times-why-ashira-oure-boxing-club-is-your-recession-proof-path-to-wellness/
 ---
