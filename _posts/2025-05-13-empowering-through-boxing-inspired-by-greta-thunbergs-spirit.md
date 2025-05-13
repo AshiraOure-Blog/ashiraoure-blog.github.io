@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Empowering Through Boxing Inspired by Greta Thunberg's Spirit"
+title: "Empowering Through Boxing Inspired by Greta Thunberg's Spirit"
 date: 2025-05-13 13:06:09 +0200
 permalink: /empowering-through-boxing-inspired-by-greta-thunbergs-spirit/
 ---
